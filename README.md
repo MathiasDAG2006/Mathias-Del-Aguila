@@ -2,8 +2,14 @@
 Mathias Del Aguila</a></h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
+  <a href="www.linkedin.com/in/mathias-del-aguila-745b783a5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="[AQUI_VA_TU_URL_DE_INSTAGRAM](https://www.instagram.com/mathias_del_aguila?igsh=MXB0emZuOWR2Y2xxMQ==)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="delaguilamathias50@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
