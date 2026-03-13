@@ -27,3 +27,13 @@ Mathias Del Aguila</a></h1>
 
 📫🌐 Contacto: **delaguilamathias50@gmail.com**
 <!--Intro end-->
+
+<h2 >Lenguages conocidos👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py&perline=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
