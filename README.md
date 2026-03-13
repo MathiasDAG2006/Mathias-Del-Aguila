@@ -2,7 +2,7 @@
 Mathias Del Aguila</a></h1>
 
 <p align="center">
-  <a href="www.linkedin.com/in/mathias-del-aguila-745b783a5" target="_blank">
+  <a href="https://www.linkedin.com/in/mathias-del-aguila-745b783a5/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.instagram.com/mathias_del_aguila?igsh=MXB0emZuOWR2Y2xxMQ==" target="_blank">
